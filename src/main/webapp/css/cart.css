@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+
+
+footer a {
+    color: #f8f9fa!important
+}
+
+a .active{
+    color: white;
+}
+
+
+.content {
+	width: 90%;
+	margin-left: 5%;
+}
+
+.table {	
+	width: 50%;
+	border-collapse: collapse;	
+	font-size: 1.1rem;
+}
+
+.table tbody td{
+vertical-align: middle;
+}
+
+.btn-incre, .btn-decre{
+box-shadow: none;
+font-size: 25px;
+}
+
+
+.cart-footer {
+    background: #343a40;
+    position: absolute;
+	bottom: 0;
+	padding: 20px;
+	width: 100%;
+}
